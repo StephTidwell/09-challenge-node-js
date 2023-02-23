@@ -34,7 +34,7 @@ const questions = [
   {
     type: "input",
     name: "installation",
-    message: "List the steps required to install your project",
+    message: "List the steps required to install your project: ",
     validate: (installationInput) => {
       if (installationInput) {
         return true;
@@ -47,7 +47,7 @@ const questions = [
   {
     type: "input",
     name: "use",
-    message: "What is the useage of this application?",
+    message: "What does this application do?",
     validate: (useInput) => {
       if (useInput) {
         return true;

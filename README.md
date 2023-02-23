@@ -1,4 +1,4 @@
-# test
+# Readme Generator
   ![License Badge](https://img.shields.io/static/v1?label=License&message=MIT&color=blue)
   
   Name: undefined
@@ -13,9 +13,9 @@
   * [Questions](#questions)
   
   ## Description:
-  test test
+  This will generate a README.md
   ## Installation:
-  1, 2 and 3
+  Clone and download the repo
   ## Usage:
   undefined
   ## license:
