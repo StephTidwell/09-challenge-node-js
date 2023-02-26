@@ -1,5 +1,5 @@
-<img width="1427" alt="Screen Shot 2023-02-26 at 12 39 29 PM" src="https://user-images.githubusercontent.com/113862737/221427255-e78b2c8a-bfa3-47cf-b4bd-2661e3b9dcbc.png">
 
+![Screen Shot 2023-02-23 at 5 48 54 PM (2)](https://user-images.githubusercontent.com/113862737/221427326-1a772a7d-243e-4a3f-ac86-395e960ba882.png)
 
 
 # Readme Generator
